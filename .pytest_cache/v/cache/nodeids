@@ -1,0 +1,11 @@
+[
+  "day01/test_login.py::test_login_001",
+  "day01/test_login.py::test_login_002",
+  "day01/test_login.py::test_login_003",
+  "day01/test_login.py::test_login_004",
+  "day01/test_login.py::test_login_005",
+  "day01/test_login.py::test_login_006",
+  "day01/test_login.py::test_login_007",
+  "day01/test_login.py::test_login_008",
+  "day01/test_register.py::test_register_001"
+]

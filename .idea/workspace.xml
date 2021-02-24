@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19d17ed0-fb27-4753-ae8b-fa5039e400c3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ng3Pr6cXatqAHFREAqV5wXDmAe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/zonghe/test_data" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\ApiAutoTest\zonghe\test_data" />
+      <recent name="F:\untitled1\day02" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_register.test_register_fail">
+    <configuration name="pytest for test_login2.test_login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zonghe/test_script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login2.test_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_login.test_login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zonghe/test_script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.test_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_register.test_register_fail" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zonghe/test_script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_register.test_register_fail&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_010.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/day02/test_010.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_login.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zonghe/test_script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/zonghe/test_script/test_login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_register.test_register_fail" />
+        <item itemvalue="Python tests.pytest for test_login.test_login" />
+        <item itemvalue="Python tests.pytest for test_login2.test_login" />
+        <item itemvalue="Python tests.pytest in test_login.py" />
+        <item itemvalue="Python tests.pytest in test_010.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19d17ed0-fb27-4753-ae8b-fa5039e400c3" name="Default Changelist" comment="" />
+      <created>1611797885276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611797885276</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="678" y="147" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614137662227">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="678" y="147" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1614137662227" />
+    <state width="663" height="247" key="GridCell.Tab.0.bottom" timestamp="1614138209277">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="663" height="247" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1614138209277" />
+    <state width="663" height="247" key="GridCell.Tab.0.center" timestamp="1614138209277">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="663" height="247" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1614138209277" />
+    <state width="663" height="247" key="GridCell.Tab.0.left" timestamp="1614138209277">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="663" height="247" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1614138209277" />
+    <state width="663" height="247" key="GridCell.Tab.0.right" timestamp="1614138209277">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="663" height="247" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1614138209277" />
+    <state width="665" height="204" key="GridCell.Tab.1.bottom" timestamp="1614097679266">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="665" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1614097679266" />
+    <state width="665" height="204" key="GridCell.Tab.1.center" timestamp="1614097679265">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="665" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1614097679265" />
+    <state width="665" height="204" key="GridCell.Tab.1.left" timestamp="1614097679265">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="665" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1614097679265" />
+    <state width="665" height="204" key="GridCell.Tab.1.right" timestamp="1614097679265">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="665" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1614097679265" />
+    <state x="196" y="0" key="SettingsEditor" timestamp="1611823853156">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="196" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1611823853156" />
+    <state x="605" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1614131140236">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="605" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1614131140236" />
+  </component>
+</project>
